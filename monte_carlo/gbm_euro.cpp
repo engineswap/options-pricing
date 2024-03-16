@@ -6,7 +6,7 @@
 
 using namespace std;
 
-// Run command: g++ -std=c++11 gbm_euro.cpp -o gbm_euro && ./gbm_euro
+// Run command: g++ -std=c++11 ./monte_carlo/gbm_euro.cpp -o gbm_euro && ./gbm_euro
 
 const double e = 2.7182818284;
 const double K = 100; // Strike price

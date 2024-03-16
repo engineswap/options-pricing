@@ -3,8 +3,8 @@
 #include <vector>
 
 /*
-	Creates a vol surface using black scholes model
-	Run command: g++ -std=c++11 price_option.cpp -o price_option && ./price_option
+	Prices an option with black scholes
+	Run command: g++ -std=c++11 ./black_scholes/price_option.cpp -o price_option && ./price_option
 */
 
 const double e  = 2.7182818284;
